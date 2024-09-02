@@ -24,6 +24,7 @@ Atualmente, estou aprimorando minhas habilidades em Python, desenvolvendo projet
 - GitHub: https://github.com/Vulphera
 
 ## ⚡ Curiosidades
+I'm self-taught love challenges, always eager to learn something new!
+
 Sou autodidata e adoro desafios, sempre disposto a aprender algo novo!
 
-I'm self-taught love challenges, always eager to learn something new!
