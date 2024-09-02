@@ -10,7 +10,7 @@ I'm a beginner developer focused on Python and always looking to learn and grow 
 - Git
 - GIMP (Basic/Básico)
 
-## 📚 Formação Acadêmica
+## 📚 Education / Formação Acadêmica
 - **Biological Cience / Ciências Biológicas** - UNISAGRADO (2016)
 
 ## 🌱 Currently Learning / Estou aprendendo
