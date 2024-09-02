@@ -1,8 +1,8 @@
 # Hello, I'm Marcel Moretti Martelo 👋
 # Olá, eu sou Marcel Moretti Martelo 👋
 
-Sou um desenvolvedor iniciante com foco em Python, sempre buscando aprender e crescer na área de programação. Este repositório é uma coleção dos meus projetos e experimentos de código.
 I'm a beginner developer focused on Python and always looking to learn and grow in programming. This repository is a collection of my projects and code experiments.
+Sou um desenvolvedor iniciante com foco em Python, sempre buscando aprender e crescer na área de programação. Este repositório é uma coleção dos meus projetos e experimentos de código.
 
 ## 🔧 Technologies and tools / Tecnologias e Ferramentas
 - Python
